@@ -25,7 +25,7 @@ This project is a **Movie Recommendation System** that provides personalized mov
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone <[repository_url](https://github.com/Skywalker1910/Movies_Recommendation_System)>
+git clone https://github.com/Skywalker1910/Movies_Recommendation_System
 cd movies-recommendation-system
 ```
 ### 2. Download trained Models:
