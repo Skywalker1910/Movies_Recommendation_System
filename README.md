@@ -1,5 +1,5 @@
 # CPSC 8740 A.I Receptive Software Engineering
-# Final Project
+# Final Project | Aditya More | CU-ID – C97857734
 # Movie Recommendation System
 
 This project is a **Movie Recommendation System** that provides personalized movie recommendations based on content-based and collaborative filtering techniques. It uses a Flask web application to enable users to rate movies and view recommendations.
