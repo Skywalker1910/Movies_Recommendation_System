@@ -73,44 +73,27 @@ python app.py
 
 
 ## File Structure 
-
+```graphql
 movies-recommendation-system/
 │
-
 ├── app.py                  # Flask app to run the web server
-
 ├── data/
-
 │   ├── movies_metadata.csv # Dataset containing movie metadata
-
 │   ├── ratings_small.csv   # Dataset containing user ratings
-
 ├── models/
-
 │   ├── content_model.pkl   # Trained content-based model
-
 │   ├── collaborative_model.pkl # Trained collaborative filtering model
-
 ├── static/
-
 │   ├── style.css           # CSS file for styling
-
 │   └── app.js              # JavaScript for interactivity
-
 ├── templates/
-
 │   ├── index.html          # Homepage
-
 │   ├── recommendations.html # Recommendations page
-
 ├── requirements.txt        # Python dependencies
-
 ├── data_preparation.py     # Script for data cleaning and preparation
-
 ├── model.py                # Script for building models
-
 └── utils.py                # Helper functions
-
+```
 
 ## Troubleshooting
 ### 1. Missing Dependencies:
