@@ -25,13 +25,13 @@ This project is a **Movie Recommendation System** that provides personalized mov
 ### 1. Clone the Repository
 Clone this repository to your local machine:
 ```bash
-git clone <repository_url>
+git clone <[repository_url](https://github.com/Skywalker1910/Movies_Recommendation_System)>
 cd movies-recommendation-system
 ```
-### 2. Download Pre-trained Models:
-- The pre-trained models are hosted on OneDrive. Download them using the link below:
+### 2. Download trained Models:
+- The trained models were large in size and are hosted on OneDrive. Download them using the link below:
 
-https://clemson-my.sharepoint.com/:f:/g/personal/more_clemson_edu/EuddtKH1EhtCu06fAQ8Et-IBUA4Ty0w24mTqzSAxB0UJuA?e=LseOHA
+<[Trained_Models](https://clemson-my.sharepoint.com/:f:/g/personal/more_clemson_edu/EuddtKH1EhtCu06fAQ8Et-IBUA4Ty0w24mTqzSAxB0UJuA?e=LseOHA)>
 
 - Place the downloaded models in the models/ directory of the project:
 
